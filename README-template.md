@@ -94,6 +94,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - [Hubspot Blog Post on CSS Reset](https://blog.hubspot.com/website/css-reset) - This article helped explain what a CSS reset file is. It also helped me understand the difference between a normalize file and a reset file. In short, a normalize file matches the base css with browser defaults while a reset file removes these defaults completely.
 - [Josh Comeau's Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) - For the actual CSS reset file I used this one. It's a fairly short CSS file and may not even really fit the classical definition of CSS reset but Josh dives pretty deep into what everything does and why, so it was definitely a valuable resource. There's even some quiz-like structure to help you learn why he chose his specific implementation.
+- [The MDN Docs on CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - Trying to figure out how to use custom properties with CSS.
 
 ## Author
 
