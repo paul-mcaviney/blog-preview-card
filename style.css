@@ -97,3 +97,30 @@ body {
   height: 100vh;
   /* font-family: ... */
 }
+
+.card {
+  max-width: 375px;
+  background-color: var(--white);
+  border: 1px solid var(--black);
+  border-radius: 2em;
+  box-shadow: 10px 10px 1px;
+  padding: 1.5em;
+  margin: 1.5em;
+}
+
+.author-component {
+  display: flex;
+  height: 50px;
+  border: 1px solid red;
+  gap: 10px;
+  align-items: center;
+}
+
+.author-component img {
+  /* display: inline; */
+  height: 40px;
+}
+
+.author-name {
+  font-weight: 700;
+}
