@@ -33,3 +33,7 @@ The designs were created to the following widths:
 - Weights: 500, 800
 
 > 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code.
+
+> See hover and focus states for all interactive elements on the page
+
+> The font sizes in this project a slightly smaller in the mobile layout. Find a way to reduce font size for smaller screens without using media queries.

@@ -80,6 +80,12 @@ h6 {
 /*        Start of Stylesheet         */
 /**************************************/
 
+@media screen and (max-width: 600px) {
+  p {
+    font-size: 0.9rem;
+  }
+}
+
 :root {
   /* Custom Properties */
   --yellow: hsl(47, 88%, 63%);
@@ -134,7 +140,7 @@ h1 {
 .publish-date {
   display: block;
   margin: 20px 0 10px 0;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .author-component {
@@ -146,10 +152,10 @@ h1 {
 }
 
 .author-component img {
-  /* display: inline; */
   height: 40px;
 }
 
 .author-name {
   font-weight: 800;
+  font-size: 0.9em;
 }
