@@ -109,6 +109,15 @@ body {
   /* font-family: ... */
 }
 
+a {
+  text-decoration: none;
+  color: var(--black);
+}
+
+.link:hover {
+  color: var(--yellow);
+}
+
 h1 {
   font-size: 1.1em;
 }
@@ -136,6 +145,10 @@ h1 {
   background-color: var(--yellow);
   border-radius: 5px;
 }
+
+/* .tag:hover {
+  color: var(--white);
+} */
 
 .publish-date {
   display: block;
