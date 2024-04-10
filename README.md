@@ -30,8 +30,6 @@ Users should be able to:
 
 ### Links
 
-<!-- TODO: Add the links once they're live  -->
-
 - Solution URL: [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-sAt1HEDJAV)
 - Live Site URL: [Hosted on Github Pages](https://paul-mcaviney.github.io/blog-preview-card/)
 
