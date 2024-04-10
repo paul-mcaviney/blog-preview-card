@@ -33,7 +33,7 @@ Users should be able to:
 <!-- TODO: Add the links once they're live  -->
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Hosted on Github Pages](https://paul-mcaviney.github.io/blog-preview-card/)
 
 ## My process
 
